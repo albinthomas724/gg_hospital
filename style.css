@@ -159,19 +159,10 @@ a
     color: rgb(9, 207, 154);
     text-decoration: underline;
   }
-  /*.cards2
-  {
-        margin-left:2px ;
-        margin-right: 20px;
-        margin-top: 100px;
-  }
-  .cards2 img
-  {
-    width: 1165px;
-  }*/
+  
   .cards2
   {
-    background-image: url('Assets/card2.png'); /* Replace 'background.jpg' with your image file */
+    background-image: url('Assets/card2.png'); 
     background-size: cover;
     background-position: center;
     margin-top: 210px;
@@ -314,7 +305,7 @@ margin-top: 150px;}
     /* width: 100%; */
 }
 #footer_table1 table td {
-    padding: 1px 10px; /* Adjust the padding to your desired spacing */
+    padding: 1px 10px; 
 }
 
 #footer_table2 table {
@@ -322,7 +313,7 @@ margin-top: 150px;}
     /* width: 100%; */
 }
 #footer_table2 table td {
-    padding: 8px 10px; /* Adjust the padding to your desired spacing */
+    padding: 8px 10px;
 }
 .last_footer
 {
